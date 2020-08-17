@@ -1,0 +1,26 @@
+/*slick*/
+
+.sl {
+  max-width: 860px;
+  margin: 60px auto;
+}
+
+.slide {
+  position: relative;
+  margin: 0 7px;
+}
+
+.sl_text {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.2);
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.sl_title, .sl_desc {
+  margin: 0;
+  padding: 0;
+}
