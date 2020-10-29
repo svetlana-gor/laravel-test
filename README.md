@@ -18,4 +18,6 @@
 
     * Footer with some test text.
 
+* Slick Slider is used on the main page
+
 * Created seeds to fill database data.
